@@ -44,20 +44,20 @@ _Team lead_<br>
 Develop significant parts of billing core.
 
 ### **Yandex, Moscow** `2010`
-_Senior software developer_
+_Senior software developer_<br>
 Develop significant parts of billing core.
 
 ### **Yandex, Moscow** `2008`
-_Software developer_
+_Software developer_<br>
 Python coding.
 
 ### **Intersoft Lab, Moscow** `2006`
-_Team lead_
+_Team lead_<br>
 *Data Warehouse and Business Performance Management software development company*
 Develop tools to build business reports. BI, OLAP. High performance library from scratch to access Oracle from Python.
 
 ### **Intersoft Lab, Moscow** `2004`
-_Software developer_
+_Software developer_<br>
 Lot of c++, pascal.
 
 ## Education
