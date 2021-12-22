@@ -4,9 +4,8 @@ title: Dmitrii Balabanov
 email:
   url: mailto:dimonb@gmail.com
   text: dimonb@gmail.com
-phone:
-  url: tel:+79269900327
-  text: +79269900327
+phone: +79269900327
+
 ---
 
 # Dmitrii Balabanov
@@ -63,35 +62,32 @@ Lot of c++, pascal.
 
 ## Education
 
-### **Carnegie Mellon University** `2004`
+### **Moscow Institute of Physics and Technology (State University) (MIPT)** `2004`
 
 ```
-Moscow Institute of Physics and Technology (State University) (MIPT)
+Master of mathematical science
 ```
-
-- Master of mathematical science
 - Economics, Mathematics, Physics
 
 ## Skills
-Software design
-Team leadership
-Code review
-Control development process HA Systems
-Linux (deep internals)
-Web technologies
-Python, C++, Bash and much more
-CI systems (Jenkins, Teamcity)
-Oracle, Mysql, MongoDB, Kafka, Zookeeper
+- Software design
+- Team leadership
+- Code review
+- Control development process HA Systems
+- Linux (deep internals)
+- Web technologies
+- Python, C++, Bash and much more
+- CI systems (Jenkins, Teamcity)
+- Oracle, Mysql, MongoDB, Kafka, Zookeeper
 
 ## Languages
 
-Russian: Native
-
-English: Intermediate
+- Russian: Native
+- English: Intermediate
 
 
 ## Interests and Activities
 
-Technology, Open-Source, Programming
-Psychoanalysis
-Yachting (YIT skipper license), Snowboard, Roller-skates, Photography, Hiking
+- Technology, Open-Source, Programming
+- Psychoanalysis
+- Yachting (YIT skipper license), Snowboard, Roller-skates, Photography, Hiking
