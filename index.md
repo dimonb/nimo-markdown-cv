@@ -37,7 +37,7 @@ _Head of direction_<br>
 
 ### **Yandex, Moscow** `2015` 
 _Head of service_<br>
-...
+Develop billing software system (prices/taxes, invoices, online processing, docu- ment flow, business reports). Architecture and software design. Building high available geographically distributed billing system. Interviewing and hiring developers. Just make things work.
 
 ### **Yandex, Moscow** `2012`
 _Team lead_<br>
