@@ -30,40 +30,59 @@ Supported arguments:
 ### **Software architect Yandex, Moscow** `2021`
 
 _Software architect_<br>
-...
+- Design financial platform high level architecture
+- Architecture of new Yandex PSP using microservices and event sourcing design pattern
+- Pass PCI DSS certification (Compliance Level 1 with card storage. 6M+ trans/yr)
+- Desing PCI DSS architecture in Yandex.Cloud. Redesign cryptography schema from scratch
+- Architecture of new Yandex.Biling plarform (1C on steroids, FaaS, etc)
+- Yandex Python commitee member
+- Arcadia (Yandex monorepository build system) workgroup member
 
 ### **Department of automation and support of internal processes Yandex, Moscow** `2019`
 
 _Deputy Head_<br>
-...
+- Launch MDH service
 
 ### **Division of payment, partner and billing systems, Yandex, Moscow** `2017`
 _Head of direction_<br>
+- Launch electronic document management servce
+- Launch bank integration service
+- Launch cash register service to meet 54 federal law requirements
+- Launch user api key counter service
 
 ### **Yandex, Moscow** `2015` 
 _Head of service_<br>
-Develop billing software system (prices/taxes, invoices, online processing, docu- ment flow, business reports). Architecture and software design. Building high available geographically distributed billing system. Interviewing and hiring developers. Just make things work.
+- Develop billing software system (prices/taxes, invoices, online processing, document flow, business reports)
+- Architecture and software design.
+- Building high available distributed billing system.
+- Interviewing and hiring developers
 
 ### **Yandex, Moscow** `2012`
 _Team lead_<br>
-Develop significant parts of billing core.
+- Develop significant parts of billing core. 
+- Interviewing and hiring developers
 
 ### **Yandex, Moscow** `2010`
 _Senior software developer_<br>
-Develop significant parts of billing core.
+- Develop significant parts of billing core.
+- Document flow system
 
 ### **Yandex, Moscow** `2008`
 _Software developer_<br>
-Python coding.
+- Python coding
+- xscript, xml/xslt, CORBA
 
 ### **Intersoft Lab, Moscow** `2006`
 _Team lead_<br>
 *Data Warehouse and Business Performance Management software development company*
-Develop tools to build business reports. BI, OLAP. High performance library from scratch to access Oracle from Python.
+- Develop tools to build business reports. BI, OLAP
+- High performance library from scratch to access Oracle from Python
 
 ### **Intersoft Lab, Moscow** `2004`
 _Software developer_<br>
-Lot of c++, pascal.
+- Lot of c++, pascal
+- Delphi, C++ Builder environments
+- VCL library internals
 
 ## Education
 
@@ -80,10 +99,11 @@ Master of mathematical science
 - Code review
 - Control development process HA Systems
 - Linux (deep internals)
-- Web technologies
-- Python, C++, Bash and much more
+- Web technologies, 
+- Python, C++, Bash, GO, Javascript, SQL and much more
 - CI systems (Jenkins, Teamcity)
-- Oracle, Mysql, MongoDB, Kafka, Zookeeper
+- Oracle, PostgreSQL, Mysql, MongoDB, Kafka, Zookeeper
+- Good knowlege of SOX, PCI DSS standarts
 
 ## Languages
 
