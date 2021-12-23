@@ -4,6 +4,9 @@ title: Dmitrii Balabanov
 email:
   url: mailto:dimonb@gmail.com
   text: dimonb@gmail.com
+homepage:
+  url: https://t.me/dimonb
+  text: @dimonb
 phone:
   url: tel:+79269900327
   text: +79269900327
