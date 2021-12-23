@@ -81,7 +81,7 @@ _Team lead_<br>
 - High performance library from scratch to access Oracle from Python
 
 ### **Intersoft Lab, Moscow** `2004`
-_Software developer_<br>
+```_Software developer_<br>```
 - Lot of c++, pascal
 - Delphi, C++ Builder environments
 - VCL library internals
@@ -101,20 +101,20 @@ Master of mathematical science
 - Code review
 - Control development process HA Systems
 - Linux (deep internals)
-- Web technologies, 
+- Web technologies, networking
+- Cloud based solutions. FaaS, DbaaS, XXaaS
 - Python, C++, Bash, GO, Javascript, SQL and much more
 - CI systems (Jenkins, Teamcity)
 - Oracle, PostgreSQL, Mysql, MongoDB, Kafka, Zookeeper
 - Good knowlege of SOX, PCI DSS standarts
 
 ## Languages
-
 - Russian: Native
 - English: Intermediate
 
 
 ## Interests and Activities
-
 - Technology, Open-Source, Programming
-- Psychoanalysis
 - Yachting (YIT skipper license), Snowboard, Roller-skates, Photography, Hiking
+- Psychoanalysis
+
