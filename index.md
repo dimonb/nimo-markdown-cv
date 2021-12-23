@@ -41,18 +41,20 @@ _Software architect_<br>
 ### **Department of automation and support of internal processes Yandex, Moscow** `2019`
 
 _Deputy Head_<br>
-- Launch MDH service
+- Launches the MDH (gold record) service
+- Implemented an architecture desing review process
 
 ### **Division of payment, partner and billing systems, Yandex, Moscow** `2017`
 _Head of direction_<br>
-- Launch electronic document management servce
-- Launch bank integration service
-- Launch cash register service to meet 54 federal law requirements
-- Launch user api key counter service
+- Launched the electronic document management servce
+- Launched the user api key counter service
+- Launched the cash register service to meet 54 federal law requirements
+- Implemented an incident management process
 
 ### **Yandex, Moscow** `2015` 
 _Head of service_<br>
-- Develop billing software system (prices/taxes, invoices, online processing, document flow, business reports)
+- Launched the bank integration service
+- Developing billing software system (prices/taxes, invoices, online processing, document flow, business reports)
 - Architecture and software design.
 - Building high available distributed billing system.
 - Interviewing and hiring developers
