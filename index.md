@@ -6,7 +6,7 @@ email:
   text: dimonb@gmail.com
 homepage:
   url: https://t.me/dimonb
-  text: @dimonb
+  text: https://t.me/dimonb
 phone:
   url: tel:+79269900327
   text: +79269900327
