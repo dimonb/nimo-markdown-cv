@@ -27,7 +27,7 @@ Supported arguments:
 
 ## Experience
 
-### **Monetization Platform Department Yandex, Moscow** `2021`
+### **Monetization Platform Department, Yandex, Moscow** `2021`
 _Software architect_<br>
 - Design financial platform high level architecture
 - Architecture of new Yandex PSP using microservices and event sourcing design pattern
@@ -37,7 +37,7 @@ _Software architect_<br>
 - Yandex Python commitee member
 - Arcadia (Yandex monorepository build system) workgroup member
 
-### **Department of automation and support of internal processes Yandex, Moscow** `2019`
+### **Department of automation and support of internal processes, Yandex, Moscow** `2019`
 _Deputy Head_<br>
 - Launches the MDH (gold record) service
 - Implemented an architecture desing review process
