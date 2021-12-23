@@ -87,7 +87,6 @@ _Software developer_<br>
 ## Education
 
 ### **Moscow Institute of Physics and Technology (State University) (MIPT)** `2004`
-
 ```
 Master of mathematical science
 ```
@@ -110,8 +109,8 @@ Master of mathematical science
 - Russian: Native
 - English: Intermediate
 
-
 ## Interests and Activities
 - Technology, Open-Source, Programming
 - Yachting (YIT skipper license), Snowboard, Roller-skates, Photography, Hiking
-- Psychoanalysis
+- Singing, Painting
+- Psychology
