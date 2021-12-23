@@ -31,7 +31,7 @@ Supported arguments:
 _Software architect_<br>
 - Design financial platform high level architecture
 - Architecture of new Yandex PSP using microservices and event sourcing design pattern
-- Pass PCI DSS certification (Compliance Level 1 with card storage. 6M+ trans/yr)
+- PCI DSS certification (Compliance Level 1 with card storage. 6M+ trans/yr) passed
 - Desing PCI DSS architecture in Yandex.Cloud. Redesign cryptography schema from scratch
 - Architecture of new Yandex.Biling plarform (1C on steroids, FaaS, etc)
 - Yandex Python commitee member
@@ -39,7 +39,7 @@ _Software architect_<br>
 
 ### **Department of automation and support of internal processes, Yandex, Moscow** `2019`
 _Deputy Head_<br>
-- Launches the MDH (gold record) service
+- Launched the MDH (gold record) service
 - Implemented an architecture desing review process
 
 ### **Division of payment, partner and billing systems, Yandex, Moscow** `2017`
