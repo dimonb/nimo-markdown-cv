@@ -59,6 +59,8 @@ _Head of service_<br>
 - Interviewing and hiring developers
 - Implemented perfomance review process
 
+<div style="page-break-after: always;"></div>
+
 ### **Billing, Yandex, Moscow** `07.2012-11.2015`
 _Team lead_<br>
 - Develop significant parts of billing core. 
@@ -88,11 +90,13 @@ _Software developer_<br>
 - Delphi, C++ Builder environments
 - VCL library internals
 
+<div style="page-break-after: always;"></div>
+
 ## Education
 
 ### **Moscow Institute of Physics and Technology (State University) (MIPT)** `1998-2004`
 ```
-Master of mathematical science
+Master of mathemagical science
 ```
 - Economics, Mathematics, Physics
 
@@ -108,6 +112,7 @@ Master of mathematical science
 - CI systems (Jenkins, Teamcity)
 - Oracle, PostgreSQL, Mysql, MongoDB, Kafka, Zookeeper
 - Good knowlege of SOX, PCI DSS standarts
+- Paintbrush
 
 ## Languages
 - Russian: Native
@@ -116,5 +121,6 @@ Master of mathematical science
 ## Interests and Activities
 - Technology, Open-Source, Programming
 - Yachting (YIT skipper license), Snowboard, Roller-skates, Photography, Hiking
-- Singing, Painting
+- Singing Folk, Lindyhop
+- Horseriding, archery
 - Psychology
