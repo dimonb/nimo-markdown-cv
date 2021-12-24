@@ -1,15 +1,15 @@
 ---
-layout: cv
-title: Dmitrii Balabanov
+layout: "cv"
+title: "Dmitrii Balabanov"
 email:
-  url: mailto:dimonb@gmail.com
-  text: dimonb@gmail.com
+  url: "mailto:dimonb@gmail.com"
+  text: "dimonb@gmail.com"
 homepage:
-  url: https://t.me/dimonb
-  text: https://t.me/dimonb
+  url: "https://t.me/dimonb"
+  text: "telegram: @dimonb"
 phone:
-  url: tel:+79269900327
-  text: +79269900327
+  url: "tel:+79269900327"
+  text: "+79269900327"
   
 ---
 
@@ -27,7 +27,7 @@ Supported arguments:
 
 ## Experience
 
-### **Monetization Platform Department, Yandex, Moscow** `2021`
+### **Monetization Platform Department, Yandex, Moscow** `2019-now`
 _Software architect_<br>
 - Design financial platform high level architecture
 - Architecture of new Yandex PSP using microservices and event sourcing design pattern
@@ -37,19 +37,19 @@ _Software architect_<br>
 - Yandex Python commitee member
 - Arcadia (Yandex monorepository build system) workgroup member
 
-### **Department of automation and support of internal processes, Yandex, Moscow** `2019`
+### **Department of automation and support of internal processes, Yandex, Moscow** `2017-2019`
 _Deputy Head_<br>
 - Launched the MDH (gold record) service
 - Implemented an architecture desing review process
 
-### **Division of payment, partner and billing systems, Yandex, Moscow** `2017`
+### **Division of payment, partner and billing systems, Yandex, Moscow** `2015-2017`
 _Head of direction_<br>
 - Launched the electronic document management servce
 - Launched the user api key counter service
 - Launched the cash register service to meet 54 federal law requirements
 - Implemented an incident management process
 
-### **Yandex, Moscow** `2015` 
+### **Yandex, Moscow** `2012-2015` 
 _Head of service_<br>
 - Launched the bank integration service
 - Developing billing software system (prices/taxes, invoices, online processing, document flow, business reports)
@@ -57,28 +57,28 @@ _Head of service_<br>
 - Building high available distributed billing system.
 - Interviewing and hiring developers
 
-### **Yandex, Moscow** `2012`
+### **Yandex, Moscow** `2010-2012`
 _Team lead_<br>
 - Develop significant parts of billing core. 
 - Interviewing and hiring developers
 
-### **Yandex, Moscow** `2010`
+### **Yandex, Moscow** `2008-2010`
 _Senior software developer_<br>
 - Develop significant parts of billing core.
 - Document flow system
 
-### **Yandex, Moscow** `2008`
+### **Yandex, Moscow** `2006-2008`
 _Software developer_<br>
 - Python coding
 - xscript, xml/xslt, CORBA
 
-### **Intersoft Lab, Moscow** `2006`
+### **Intersoft Lab, Moscow** `2004-2006`
 _Team lead_<br>
 *Data Warehouse and Business Performance Management software development company*
 - Develop tools to build business reports. BI, OLAP
 - High performance library from scratch to access Oracle from Python
 
-### **Intersoft Lab, Moscow** `2004`
+### **Intersoft Lab, Moscow** `2002-2004`
 _Software developer_<br>
 - Lot of c++, pascal
 - Delphi, C++ Builder environments
@@ -86,7 +86,7 @@ _Software developer_<br>
 
 ## Education
 
-### **Moscow Institute of Physics and Technology (State University) (MIPT)** `2004`
+### **Moscow Institute of Physics and Technology (State University) (MIPT)** `1998-2004`
 ```
 Master of mathematical science
 ```
