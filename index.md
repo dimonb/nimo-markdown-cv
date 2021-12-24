@@ -80,7 +80,6 @@ _Software developer_<br>
 
 ### **Intersoft Lab, Moscow** `2006-2008`
 _Team lead_<br>
-*Data Warehouse and Business Performance Management software development company*
 - Develop tools to build business reports. BI, OLAP
 - High performance library from scratch to access Oracle from Python
 
