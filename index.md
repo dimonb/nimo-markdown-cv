@@ -27,60 +27,61 @@ Supported arguments:
 
 ## Experience
 
-### **Monetization Platform Department, Yandex, Moscow** `2019-now`
+### **Monetization Platform Department, Yandex, Moscow** `01.2021-now`
 _Software architect_<br>
-- Design financial platform high level architecture
+- Designing financial platform high level architecture
 - Architecture of new Yandex PSP using microservices and event sourcing design pattern
 - PCI DSS certification (Compliance Level 1 with card storage. 6M+ trans/yr) passed
 - Desing PCI DSS architecture in Yandex.Cloud. Redesign cryptography schema from scratch
-- Architecture of new Yandex.Biling plarform (1C on steroids, FaaS, etc)
 - Yandex Python commitee member
 - Arcadia (Yandex monorepository build system) workgroup member
 
-### **Department of automation and support of internal processes, Yandex, Moscow** `2017-2019`
+### **automation and support of internal processes Department, Yandex, Moscow** `03.2018-01.2021`
 _Deputy Head_<br>
 - Launched the MDH (gold record) service
 - Implemented an architecture desing review process
+- Migrating development process to Yandex monorepository (aka <a href="https://habr.com/ru/company/yandex/blog/482926/">Arcadia</a>)
+- MVP of new Yandex.Biling plarform (1C on steroids, FaaS, etc)
 
-### **Division of payment, partner and billing systems, Yandex, Moscow** `2015-2017`
+### **Payment, partner and billing systems Division, Yandex, Moscow** `08.2017-03.2018`
 _Head of direction_<br>
 - Launched the electronic document management servce
-- Launched the user api key counter service
-- Launched the cash register service to meet 54 federal law requirements
 - Implemented an incident management process
 
-### **Yandex, Moscow** `2012-2015` 
+### **Billing, Yandex, Moscow** `11.2015-08.2017` 
 _Head of service_<br>
+- Launched the cash register service to meet 54 federal law requirements
+- Launched the user api key counter service
 - Launched the bank integration service
 - Developing billing software system (prices/taxes, invoices, online processing, document flow, business reports)
 - Architecture and software design.
 - Building high available distributed billing system.
 - Interviewing and hiring developers
 
-### **Yandex, Moscow** `2010-2012`
+### **Billing, Yandex, Moscow** `07.2012-11.2015`
 _Team lead_<br>
 - Develop significant parts of billing core. 
 - Interviewing and hiring developers
 
-### **Yandex, Moscow** `2008-2010`
+### **Billing, Yandex, Moscow** `02.2010-07.2012`
 _Senior software developer_<br>
 - Develop significant parts of billing core.
 - Document flow system
 
-### **Yandex, Moscow** `2006-2008`
+### **Billing, Yandex, Moscow** `03.2008-02.2010`
 _Software developer_<br>
 - Python coding
 - xscript, xml/xslt, CORBA
 
-### **Intersoft Lab, Moscow** `2004-2006`
+### **Intersoft Lab, Moscow** `2006-2008`
 _Team lead_<br>
 *Data Warehouse and Business Performance Management software development company*
 - Develop tools to build business reports. BI, OLAP
 - High performance library from scratch to access Oracle from Python
 
-### **Intersoft Lab, Moscow** `2002-2004`
+### **Intersoft Lab, Moscow** `2002-2006`
 _Software developer_<br>
-- Lot of c++, pascal
+- Lot of C++, pascal
 - Delphi, C++ Builder environments
 - VCL library internals
 
@@ -98,7 +99,7 @@ Master of mathematical science
 - Code review
 - Control development process HA Systems
 - Linux (deep internals)
-- Web technologies, networking
+- Web technologies. HTML, CSS, Javascript
 - Cloud based solutions. FaaS, DbaaS, XXaaS
 - Python, C++, Bash, GO, Javascript, SQL and much more
 - CI systems (Jenkins, Teamcity)
