@@ -57,11 +57,14 @@ _Head of service_<br>
 - Architecture and software design.
 - Building high available distributed billing system.
 - Interviewing and hiring developers
+- Implemented perfomance review process
 
 ### **Billing, Yandex, Moscow** `07.2012-11.2015`
 _Team lead_<br>
 - Develop significant parts of billing core. 
 - Interviewing and hiring developers
+- Internal PSP service
+- PCI DSS compliant card storage
 
 ### **Billing, Yandex, Moscow** `02.2010-07.2012`
 _Senior software developer_<br>
