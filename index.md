@@ -8,8 +8,8 @@ homepage:
   url: "https://t.me/dimonb"
   text: "telegram: @dimonb"
 phone:
-  url: "tel:+79269900327"
-  text: "+79269900327"
+  url: "tel:+972549002998"
+  text: "+972549002998"
   
 ---
 
@@ -27,7 +27,20 @@ Supported arguments:
 
 ## Experience
 
-### **Monetization Platform Department, Yandex, Moscow** `01.2021-now`
+### **EBAC Online** `02.2022-now`
+_CTO_<br>
+- Manage distributed fully remote team
+- Introduce best dev practices:
+  * Incident review process
+  * OKR's
+  * SCRUM
+  * Unit tests
+  * Developer's duty process
+  * ..and much more
+- Hiring and managing development team
+- Company wide Data Mesh
+
+### **Monetization Platform Department, Yandex, Moscow** `01.2021-02.2022`
 _Software architect_<br>
 - Designing financial platform high level architecture
 - Architecture of new Yandex PSP using microservices and event sourcing design pattern
@@ -116,6 +129,7 @@ Master of mathemagical science
 ## Languages
 - Russian: Native
 - English: Intermediate
+- Hebrew: Alphabet
 
 ## Interests and Activities
 - Technology, Open-Source, Programming
