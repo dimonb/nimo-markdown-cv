@@ -39,6 +39,7 @@ _CTO_<br>
   * ..and much more
 - Hiring and managing development team
 - Company wide Data Mesh
+- Replace some inhouse solutions with AWS
 
 ### **Monetization Platform Department, Yandex, Moscow** `01.2021-02.2022`
 _Software architect_<br>
