@@ -120,21 +120,22 @@ Master of mathemagical science
 - Control development process HA Systems
 - Linux (deep internals)
 - Web technologies. HTML, CSS, Javascript
-- Cloud based solutions. FaaS, DbaaS, XXaaS
-- Python, C++, Bash, GO, Javascript, SQL and much more
-- CI systems (Jenkins, Teamcity)
-- Oracle, PostgreSQL, Mysql, MongoDB, Kafka, Zookeeper
+- Cloud based solutions. FaaS, DbaaS, XXaaS, Terraform, Kubernetes
+- Python, C++, Bash, GO, Javascript, SQL,  and much more
+- CI systems (Jenkins, Teamcity, GitLab CI)
+- Oracle, PostgreSQL, Mysql, MongoDB, Kafka
 - Good knowlege of SOX, PCI DSS standarts
 - Paintbrush
 
 ## Languages
 - Russian: Native
 - English: Intermediate
-- Hebrew: Alphabet
+- Hebrew: Alphabet+
 
 ## Interests and Activities
 - Technology, Open-Source, Programming
 - Yachting (YIT skipper license), Snowboard, Roller-skates, Photography, Hiking
-- Singing Folk, Lindyhop
-- Horseriding, archery
+- Surfing, Kitesurf, Windsurf
+- Singing Folk, Lindyhop Dancing
+- Horseriding, Archery
 - Psychology
