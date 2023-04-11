@@ -29,49 +29,39 @@ Supported arguments:
 
 ### **EBAC Online** `02.2022-now`
 _CTO_<br>
-- Manage distributed fully remote team
-- Introduce best dev practices:
-  * Incident review process
-  * OKR's
-  * SCRUM
-  * Unit tests
-  * Developer's duty process
-  * ..and much more
-- Hiring and managing development team
-- Company wide Data Mesh
-- Replace some inhouse solutions with AWS
+- Managing a fully remote, distributed team
+- Introducing best development practices, including incident review process, OKRs, SCRUM, unit tests, and developer's duty process
+- Hiring and managing the development team
+- Implementing a company-wide Data Mesh and transitioning some in-house solutions to AWS
 
 ### **Monetization Platform Department, Yandex, Moscow** `01.2021-02.2022`
 _Software architect_<br>
-- Designing financial platform high level architecture
-- Architecture of new Yandex PSP using microservices and event sourcing design pattern
-- PCI DSS certification (Compliance Level 1 with card storage. 6M+ trans/yr) passed
+- Designed high-level architecture for financial platforms
+- Developed Yandex PSP using microservices and event sourcing design patterns
+- Achieved PCI DSS Level 1 Compliance with card storage (6M+ transactions/yr)
 - Desing PCI DSS architecture in Yandex.Cloud. Redesign cryptography schema from scratch
-- Yandex Python commitee member
-- Arcadia (Yandex monorepository build system) workgroup member
+- Served on Yandex Python committee and Arcadia (Yandex monorepository build system) workgroup
 
 ### **automation and support of internal processes Department, Yandex, Moscow** `03.2018-01.2021`
 _Deputy Head_<br>
-- Launched the MDH (gold record) service
-- Implemented an architecture desing review process
+- Launched MDH (gold record) service
+- Implemented architecture design review process
 - Migrating development process to Yandex monorepository (aka <a href="https://habr.com/ru/company/yandex/blog/482926/">Arcadia</a>)
-- MVP of new Yandex.Biling plarform (1C on steroids, FaaS, etc)
+- Developed MVP of Yandex.Billing platform (1C on steroids, FaaS, etc)
 
 ### **Payment, partner and billing systems Division, Yandex, Moscow** `08.2017-03.2018`
 _Head of direction_<br>
-- Launched the electronic document management servce
-- Implemented an incident management process
+- Launched electronic document management service
+- Implemented incident management process
 
 ### **Billing, Yandex, Moscow** `11.2015-08.2017` 
 _Head of service_<br>
-- Launched the cash register service to meet 54 federal law requirements
+- Launched services for cash registers (54 federal law compliance)
 - Launched the user api key counter service
 - Launched the bank integration service
-- Developing billing software system (prices/taxes, invoices, online processing, document flow, business reports)
-- Architecture and software design.
-- Building high available distributed billing system.
-- Interviewing and hiring developers
-- Implemented perfomance review process
+- Developed billing software systems, including price/tax management, invoicing, online processing, and document flow
+- Designed high-availability distributed billing system architecture
+- Hired and interviewed developers, and implemented performance review process
 
 <div style="page-break-after: always;"></div>
 
