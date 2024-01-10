@@ -33,6 +33,8 @@ _CTO_<br>
 - Introducing best development practices, including incident review process, OKRs, SCRUM, unit tests, and developer's duty process
 - Hiring and managing the development team
 - Implementing a company-wide Data Mesh and transitioning some in-house solutions to AWS
+- Implement telephony system from scratch
+- Visibility: metrics, logs, tracing, and alerting
 
 ### **Monetization Platform Department, Yandex, Moscow** `01.2021-02.2022`
 _Software architect_<br>
