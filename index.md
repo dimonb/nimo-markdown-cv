@@ -29,12 +29,14 @@ Supported arguments:
 
 ### **EBAC Online** `02.2022-now`
 _CTO_<br>
+- AI Tutor implementation
 - Managing a fully remote, distributed team
 - Introducing best development practices, including incident review process, OKRs, SCRUM, unit tests, and developer's duty process
 - Hiring and managing the development team
 - Implementing a company-wide Data Mesh and transitioning some in-house solutions to AWS
 - Implement telephony system from scratch
 - Visibility: metrics, logs, tracing, and alerting
+- LMS python simulators
 
 ### **Monetization Platform Department, Yandex, Moscow** `01.2021-02.2022`
 _Software architect_<br>
@@ -112,6 +114,7 @@ Master of mathemagical science
 - Control development process HA Systems
 - Linux (deep internals)
 - Web technologies. HTML, CSS, Javascript
+- Vast experience in AI
 - Cloud based solutions. FaaS, DbaaS, XXaaS, Terraform, Kubernetes
 - Python, C++, Bash, GO, Javascript, SQL,  and much more
 - CI systems (Jenkins, Teamcity, GitLab CI)
