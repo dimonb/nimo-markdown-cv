@@ -108,18 +108,18 @@ Master of mathemagical science
 - Economics, Mathematics, Physics
 
 ## Skills
-- Software design
-- Team leadership
-- Code review
-- Control development process HA Systems
-- Linux (deep internals)
-- Web technologies. HTML, CSS, Javascript
-- Vast experience in AI
-- Cloud based solutions. FaaS, DbaaS, XXaaS, Terraform, Kubernetes
-- Python, C++, Bash, GO, Javascript, SQL,  and much more
-- CI systems (Jenkins, Teamcity, GitLab CI)
-- Oracle, PostgreSQL, Mysql, MongoDB, Kafka
-- Good knowlege of SOX, PCI DSS standarts
+- Software Architecture and Design
+- Expertise in Team Management and Leadership
+- Code Quality Assurance and Review
+- Specialized in High-Availability System Development and Management
+- Advanced Knowledge in Linux Internals
+- Extensive Experience in Artificial Intelligence
+- Cloud Computing: Function-as-a-Service, Database-as-a-Service, Various XaaS Models, Terraform, Kubernetes
+- Programming Languages: Python, C++, Bash, Go, JavaScript, SQL, TypeScript
+- Web Development: HTML, CSS, JavaScript
+- Continuous Integration Tools: Jenkins, TeamCity, GitLab CI, GitHub Actions
+- In-depth Knowledge of Databases: Oracle, PostgreSQL, MySQL, MongoDB, Kafka
+- Strong Understanding of Compliance Standards: SOX, PCI DSS
 - Paintbrush
 
 ## Languages
